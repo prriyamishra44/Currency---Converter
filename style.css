@@ -4,17 +4,17 @@
     box-sizing: border-box
 }
 body{
-    background: linear-gradient(315deg, #d6d0cf,#bbb2af);
+    background: linear-gradient(315deg, #bfeed1,#bbb2af);
     height: 100vh;
    display:flex;
    align-items: center;
    justify-content: center;
 }
 .container{
-    background-color: rgb(33, 181, 83);
-    padding: 15px 28px;
+    background-color: rgba(218, 236, 240, 0.755);
+    padding: 30px 45px;
     border-radius: 50px;
-    width: 400px;
+    width: 500px;
 }
 .h1{
     color: rgb(37, 197, 233);
@@ -34,7 +34,7 @@ select{
     height: 40px;
     font-size: 1.2em;
     cursor: pointer;
-    background: #ffcc66;
+    background: #94b3b5;
     outline:none;
     color: black;
     margin: 0.2em 0;
@@ -49,7 +49,7 @@ input{
     margin: 0.2em 0;
     border-radius:10px;
     border:none;
-    background : #f4210a;
+    background : #87ada0;
     outline:none;
     padding: 0 1em;
     
@@ -57,7 +57,7 @@ input{
 .btn{
     width:96%;
     height: 40px;
-    background: #020809;
+    background: #4d615b;
     color:white;
     border-radius: 10px;
     border:none;
